@@ -17,7 +17,7 @@ Compute governance · verifiable AI and on-chip governance · AI evaluations · 
 Python · SQL · pandas · Jupyter · statistics
 
 ### 📝 Writing
-- *Fiduciary duties of managers in retail ESG funds*, Singapore Journal of Legal Studies (forthcoming)
+- *Fiduciary duties of managers in retail ESG funds*, Singapore Journal of Legal Studies (published September 2026)
 
 ### 📫 Contact
-[LinkedIn] https://www.linkedin.com/in/megan-tan-wanting/· [Email] wtan@llm27.law.harvard.edu
+[LinkedIn] (linkedin.com/in/megan-tan-wanting/)· [Email] wtan@llm27.law.harvard.edu
