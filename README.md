@@ -1,6 +1,6 @@
 # Hi, I'm Megan 👋
 
-Lawyer and strategist working where **AI governance meets compute**. LL.M. candidate at Harvard Law School ('27), with a background in TMT strategy consulting (digital infrastructure, data centre and semiconductor deals), venture capital, and corporate law practice.
+A legal scholar working on where **AI governance meets compute**. I am a LL.M. candidate at Harvard Law School ('27), with a background in TMT strategy consulting (digital infrastructure, data centre and semiconductor deals), venture capital, and corporate law practice.
 
 I'm interested in translating between the legal and technical sides of frontier AI: how compute thresholds, evaluations and verification mechanisms can carry real regulatory weight.
 
